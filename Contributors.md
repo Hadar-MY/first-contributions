@@ -7393,6 +7393,7 @@ Rohan kumar - Creating driverless cars at IIT BOMBAY
 - [edorusta] (https://github.com/edorustichini)
 - [Avijit Manna] (https://github.com/manna-avijit)
 - [Mohamed Basher] (https://github.com/SciCode007)
+-[Hadar MY](https://github.com/Hadar\my)
 - [Adarsh-Chaturvedi] (https://github.com/extremistLab)
 - [BlueKilvin] (https://github.com/BlueKilvin) : World Peace!
 - [Ihsan-Hanif] (https://github.com/Ihsanhanif)
